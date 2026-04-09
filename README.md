@@ -1,4 +1,5 @@
 # 子网掩码计算器 v1.1
+# 子网掩码计算器 v1.1
 
 一款功能强大的网络管理工具，集成了子网掩码计算、VLSM可变长子网划分以及实用的网络工具集（Ping、端口扫描、DNS查询）。
 
@@ -45,12 +46,9 @@
 
 ```bash
 pip install PyQt5 requests ipaddress
-
 可选依赖（用于完整DNS功能）
 bash
 pip install dnspython
-
-
 运行程序
 bash
 python 子网掩码计算器v1.1.py
