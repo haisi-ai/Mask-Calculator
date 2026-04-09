@@ -49,6 +49,8 @@ pip install PyQt5 requests ipaddress
 可选依赖（用于完整DNS功能）
 bash
 pip install dnspython
+
+
 运行程序
 bash
 python 子网掩码计算器v1.1.py
